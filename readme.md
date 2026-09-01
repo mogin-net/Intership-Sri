@@ -14,7 +14,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 - Node.js (versi 16.0 atau lebih tinggi)
 - npm atau yarn
 
-## Cara Instalasi dan Menjalankan anjay
+## Cara Instalasi dan Menjalankan coba 1
 
 1. Clone repositori ini:
    \`\`\`bash
