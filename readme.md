@@ -11,6 +11,7 @@ Deskripsi singkat tentang apa yang dilakukan oleh proyek ini dan masalah apa yan
 ## Persyaratan Sistem
 
 Sebelum memulai, pastikan Anda telah menginstal:
+
 - Node.js (versi 16.0 atau lebih tinggi)
 - npm atau yarn
 
@@ -25,6 +26,9 @@ Sebelum memulai, pastikan Anda telah menginstal:
    cd nama-proyek
    \`\`\`
 3. Instal dependencies:
+   \`\`\`bash
+   npm install
+   \`\`\` 4. Instal dependencies:
    \`\`\`bash
    npm install
    \`\`\`
